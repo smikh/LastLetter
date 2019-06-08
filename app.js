@@ -1,4 +1,4 @@
-const Game = require('./game.js');
+const Game = require('./source/game.js');
 
 var game = new Game();
 
